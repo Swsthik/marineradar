@@ -80,3 +80,4 @@ dmypy.json
 
 # Node
 node_modules/
+.next/
